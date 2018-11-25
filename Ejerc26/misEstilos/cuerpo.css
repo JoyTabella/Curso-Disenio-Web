@@ -1,0 +1,29 @@
+@charset "utf-8";
+#cuerpo {
+	background-color: #06C;
+	height: 600px;
+}
+#cabeza {
+	background-color: #0CC;
+	height: 150px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+#botones {
+	background-color: #CCC;
+	height: 30px;
+	font-size: 14px;
+	text-align: center;
+}
+#contenido {
+	height: 400px;
+	font-size: 14px;
+	text-align: center;
+}
+#pie {
+	background-color: #FCF;
+	height: 20px;
+	font-size: 16px;
+	text-align: center;
+}

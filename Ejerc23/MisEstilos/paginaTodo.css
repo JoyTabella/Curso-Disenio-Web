@@ -1,0 +1,42 @@
+@charset "utf-8";
+#paginaTodo {
+	float: left;
+	height: 600px;
+	width: 800px;
+	text-align: center;
+}
+#Encabezado {
+	text-align: center;
+	float: left;
+	height: 150px;
+	width: 800px;
+}
+#Botones {
+	background-color: #093;
+	float: left;
+	height: 400px;
+	width: 200px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	text-align: center;
+}
+#paginaTodo #Botones table tr td {
+	text-align: center;
+}
+#Contenido {
+	background-color: #00CC66;
+	float: left;
+	height: 400px;
+	width: 600px;
+}
+#Pie {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+	background-color: #093;
+	text-align: right;
+	float: left;
+	height: 50px;
+	width: 800px;
+}

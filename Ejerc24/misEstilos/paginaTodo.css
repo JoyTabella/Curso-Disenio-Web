@@ -1,0 +1,13 @@
+@charset "utf-8";
+#paginaTodo {
+	float: left;
+	height: 768px;
+	width: 1024px;
+}
+#Encabezado {
+	background-color: #000;
+	float: left;
+	height: 350px;
+	width: 1024px;
+	text-align: center;
+}

@@ -1,0 +1,41 @@
+@charset "utf-8";
+#todo {
+}
+#botones {
+	background-color: #0CC;
+	text-align: center;
+	height: 50px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+#cabeza {
+	height: 200px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#contenido {
+	height: 320px;
+	font-family: "Courier New", Courier, monospace;
+	font-style: normal;
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
+}
+#pie {
+	height: 30px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background-color: #666;
+}
+.titulo {
+	font-size: 16px;
+	text-align: center;
+	text-decoration: underline;
+}
+.contenido {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}

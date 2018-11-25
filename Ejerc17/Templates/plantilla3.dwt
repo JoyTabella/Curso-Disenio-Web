@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-image: url(../imagenes/ojo.jpg);
+	background-repeat: repeat;
+}
+</style>
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" bgcolor="#000000" style="text-align: center; color: #FFF;"><table width="100%" border="0" align="center">
+        <tr>
+        <td width="26%" style="text-align: center"> <p>&nbsp;</p>
+          <p><img src="../imagenes/ojito.png" width="150" height="93" /></p></td>
+        <td width="54%" style="text-align: center"><p>&nbsp;</p>
+          <p><a href="../index.html"><img src="../imagenes/solose.png" width="480" height="235" /></a></p></td>
+        <td width="20%" style="text-align: center"><img src="../imagenes/iBcDSPkG_400x400.jpg" width="110" height="112" /></td>
+      </tr>
+  </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" style="color: #FFF; text-align: center;"><a href="../integrantes.html"><img src="../imagenes/integrantes.png" width="200" height="67" /></a></td>
+    <td bgcolor="#000000" style="color: #FFF; text-align: center;"><a href="../historia.html"><img src="../imagenes/historia.png" width="150" height="75" /></a></td>
+    <td bgcolor="#000000" style="color: #FFF; text-align: center;"><a href="../discografia.html"><img src="../imagenes/discografia.png" width="200" height="67" /></a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><!-- TemplateBeginEditable name="EditRegion3" --><!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

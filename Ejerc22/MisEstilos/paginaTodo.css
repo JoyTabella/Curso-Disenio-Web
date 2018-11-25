@@ -1,0 +1,35 @@
+@charset "utf-8";
+#paginaTodo {
+	background-color: #9FC;
+	float: left;
+	height: 600px;
+	width: 1024px;
+}
+#Encabezado {
+	background-color: #000;
+	float: left;
+	height: 150px;
+	width: 1024px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+#Botones {
+	background-color: #999;
+	float: left;
+	height: 30px;
+	width: 1024px;
+}
+#Contenido {
+	float: left;
+	height: 390px;
+	width: 1024px;
+	background-color: #FFF;
+}
+#Pie {
+	background-color: #333;
+	float: left;
+	height: 30px;
+	width: 1024px;
+}
