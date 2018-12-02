@@ -1,0 +1,8 @@
+@charset "utf-8";
+#introduccion {
+	background-image: url(../imagenes/42821500_10156485690401893_2232280879542042624_o.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: scroll;
+	background-color: #000;
+}
